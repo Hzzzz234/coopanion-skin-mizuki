@@ -7,10 +7,10 @@
 
 第一次使用
 1. 先在 Coopanion 中导入皮肤并选择「水月」，保持应用运行。
-2. 找到已经安装的皮肤文件夹 mizuki-v3，打开里面的 tools 文件夹。
-   位置是「Coopanion 数据目录\figures\mizuki-v3\tools」。
+2. 找到已经安装的水月皮肤文件夹，打开里面的 tools 文件夹。
+   形象包安装在 Coopanion 数据目录的 figures 文件夹下。
    数据目录由你的安装方式决定，可以在 Coopanion 设置中查看数据存储位置。
-   如果手动安装过皮肤，就从你放入 mizuki-v3 的那个文件夹打开。
+   如果手动安装过皮肤，就从你放入 mizuki 的那个文件夹打开。
 3. 双击 media.cmd。
 4. 工具会打开 Coopanion 安装目录和用于放图片的素材目录。
    把 PNG 或 JPG 图片放进素材目录，再双击一次 media.cmd。
