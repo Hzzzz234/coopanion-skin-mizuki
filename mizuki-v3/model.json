@@ -1,0 +1,137 @@
+{
+  "view": [
+    8,
+    14,
+    248,
+    263
+  ],
+  "cell": [
+    260,
+    300
+  ],
+  "image": [
+    22.55000000000001,
+    31.99000000000001,
+    210.89999999999998,
+    243.39
+  ],
+  "sequences": {
+    "standing": [
+      {
+        "file": "tex/standing-1.png",
+        "columns": 1,
+        "count": 1
+      }
+    ],
+    "blink": [
+      {
+        "file": "tex/blink-1.png",
+        "columns": 1,
+        "count": 1
+      }
+    ],
+    "wink": [
+      {
+        "file": "tex/wink-1.png",
+        "columns": 1,
+        "count": 1
+      }
+    ],
+    "happy": [
+      {
+        "file": "tex/happy-1.png",
+        "columns": 6,
+        "count": 12
+      }
+    ],
+    "love": [
+      {
+        "file": "tex/love-1.png",
+        "columns": 1,
+        "count": 1
+      }
+    ],
+    "surprised": [
+      {
+        "file": "tex/surprised-1.png",
+        "columns": 1,
+        "count": 1
+      }
+    ],
+    "annoyed": [
+      {
+        "file": "tex/annoyed-1.png",
+        "columns": 6,
+        "count": 16
+      }
+    ],
+    "sit": [
+      {
+        "file": "tex/sit-1.png",
+        "columns": 6,
+        "count": 14
+      }
+    ],
+    "sleep": [
+      {
+        "file": "tex/sleep-1.png",
+        "columns": 6,
+        "count": 18
+      }
+    ],
+    "walk": [
+      {
+        "file": "tex/walk-1.png",
+        "columns": 6,
+        "count": 20
+      }
+    ],
+    "run": [
+      {
+        "file": "tex/run-1.png",
+        "columns": 6,
+        "count": 20
+      }
+    ],
+    "crouch": [
+      {
+        "file": "tex/crouch-1.png",
+        "columns": 5,
+        "count": 5
+      }
+    ],
+    "air": [
+      {
+        "file": "tex/air-1.png",
+        "columns": 6,
+        "count": 16
+      }
+    ],
+    "land": [
+      {
+        "file": "tex/land-1.png",
+        "columns": 6,
+        "count": 8
+      }
+    ],
+    "drag": [
+      {
+        "file": "tex/drag-1.png",
+        "columns": 6,
+        "count": 16
+      }
+    ],
+    "dizzy": [
+      {
+        "file": "tex/dizzy-1.png",
+        "columns": 6,
+        "count": 24
+      },
+      {
+        "file": "tex/dizzy-2.png",
+        "columns": 6,
+        "count": 20
+      }
+    ]
+  }
+}
