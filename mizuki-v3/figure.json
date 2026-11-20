@@ -2,12 +2,12 @@
   "manifest": 2,
   "api": 2,
   "id": "mizuki-v3",
-  "version": "3.0.0",
+  "version": "1.1",
   "name": {
-    "zh": "水月（第三版）",
-    "zh-Hant": "水月（第三版）",
-    "en": "Mizuki · Version 3",
-    "ja": "ミヅキ（第3版）"
+    "zh": "水月",
+    "zh-Hant": "水月",
+    "en": "Mizuki",
+    "ja": "ミヅキ"
   },
   "about": {
     "zh": "浅蓝短刘海、红粉色眼睛、深蓝水母帽、小巧的 Q 版水月。",
